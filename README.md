@@ -11,15 +11,12 @@ This is my personal portfolio website built using **HTML** and **CSS**. It showc
 - HTML5
 - CSS3
 
-## 📸 Preview
-(Upload a screenshot or gif of your homepage here)
-
 ## 💡 What I Learned
 - Structuring a static portfolio website
 - Styling with CSS for layout and responsiveness
 - Organizing projects with clean file structure
 
 ## 📬 Contact
-Feel free to reach me on [LinkedIn](#) or connect through this repository!
+Feel free to reach me on or connect through this repository!
 
 ---
